@@ -2,12 +2,6 @@
 
 Software engineer in the Philippines — building AI-assisted product tools, ERPNext/Livro integrations, and modern TypeScript apps with the Wela / Livro R&D team.
 
-## UI
-
-![Giya Concerns dock demo](./assets/giya-ui-demo.svg)
-
-*Animated preview of the Giya in-page Concerns dock + pin comments.*
-
 ## How I ship
 
 ```mermaid
